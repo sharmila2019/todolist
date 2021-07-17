@@ -1,0 +1,30 @@
+.outerDiv {
+    display: flex;
+    width: 50%;
+    margin-left: 30%;
+    height: 5%;
+    /* overflow-y: scroll; */
+    justify-content: space-between;
+}
+
+.task{
+    /* float: left; */
+    color: rgb(74, 25, 189);    
+}
+
+.todoContain{
+    display: flex;
+    flex-direction: column;
+}
+
+.innerContainer{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-between;
+    width: 500px;
+}
+
+.listName{
+    white-space: wrap;
+}
+

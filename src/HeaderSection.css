@@ -1,0 +1,16 @@
+.headerContainer {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: greenyellow;
+    height: 40px;
+    
+  }
+
+  .headerList {
+    float: left;
+    margin-left: 10%;
+    text-align: center;
+    margin-top: 5px;
+  }
